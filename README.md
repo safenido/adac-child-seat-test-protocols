@@ -86,7 +86,7 @@ The test counts add up to the 840 tests of the companion datasets.
 }
 ```
 
-Source. ADAC test methodology, summarised by Safe Nido, with statistics from the published results, https://www.safenido.fr/crash-test-siege-auto/lire-une-note-adac/
+Source. ADAC test methodology, summarised by Safe Nido, with statistics from the published results, https://www.safenido.fr/test-adac/comment-lire-note-adac/
 
 Archived on **[Zenodo](https://doi.org/10.5281/zenodo.24167377)** with a permanent DOI, 10.5281/zenodo.24167377.
 
@@ -98,7 +98,7 @@ Also on **[GitHub](https://github.com/safenido/adac-child-seat-test-protocols)**
 
 The data behind these files is used on [Safe Nido](https://www.safenido.fr/), an independent French guide to child car seats built on twenty years of crash tests.
 
-- [How to read an ADAC grade](https://www.safenido.fr/crash-test-siege-auto/lire-une-note-adac/)
+- [How to read an ADAC grade](https://www.safenido.fr/test-adac/comment-lire-note-adac/)
 - [Our method](https://www.safenido.fr/methode/)
 - [Every ADAC session](https://www.safenido.fr/test-adac/)
 
